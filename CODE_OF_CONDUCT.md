@@ -25,7 +25,7 @@ The following behaviors are expected of everyone engaging with the Mono communit
 - Provide constructive feedback and help others succeed.
 
 ### Be Inclusive
-- Welcome diverse contributions and perspectives.
+- Welcome diverse perspectives.
 - Avoid language or behavior that is exclusionary or offensive.
 
 ### Promote a Positive Environment
@@ -49,7 +49,7 @@ The following behaviors are not tolerated in the Mono community:
 
 ## Reporting Issues
 
-If you experience or witness behavior that violates this Code of Conduct, please report it by emailing us at [conduct@monoapp.com](mailto:conduct@monoapp.com). All reports will be handled confidentially and with the utmost care to protect those involved.
+If you experience or witness behavior that violates this Code of Conduct, please report it by emailing us at [mono-inc@outlook.com](mailto:mono-inc@outlook.com). All reports will be handled confidentially and with the utmost care to protect those involved.
 
 ---
 
