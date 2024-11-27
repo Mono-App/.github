@@ -48,7 +48,7 @@ While our repositories are not open for direct public contributions, we’re alw
 
 ## Code of Conduct
 
-Our community is built on respect and inclusivity. Please read our [[Code of Conduct](https://github.com/Mono-App/.github/CODE_OF_CONDUCT.md)](https://github.com/Mono-App/.github/blob/main/CODE_OF_CONDUCT.md) to ensure Mono remains a welcoming space for all contributors.
+Our community is built on respect and inclusivity. Please read our [Code of Conduct](https://github.com/Mono-App/.github/CODE_OF_CONDUCT.md)(https://github.com/Mono-App/.github/blob/main/CODE_OF_CONDUCT.md) to ensure Mono remains a welcoming space for all contributors.
 
 ---
 
